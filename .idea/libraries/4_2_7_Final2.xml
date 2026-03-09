@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="4.2.7.Final2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libraries/io/netty/netty-transport-native-kqueue/4.2.7.Final/netty-transport-native-kqueue-4.2.7.Final-osx-x86_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/io/netty/netty-transport-native-kqueue/4.2.7.Final/netty-transport-native-kqueue-4.2.7.Final-osx-aarch_64.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="logging-1.6.11">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libraries/com/mojang/logging/1.6.11/logging-1.6.11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
